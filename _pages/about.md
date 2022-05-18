@@ -20,7 +20,3 @@ Recent News
 [ADHNN](/_publications/papers/AHNN.pdf) is accepted by AAAI 2022. 
 
 One paper is accepted by ACM MM 2020.
-
-Awards
-------------------------
-Conference Reviewer: ICLR2022, ICCV2021, CVPR2020-2022, ECCV2020, ACM MM2020.
