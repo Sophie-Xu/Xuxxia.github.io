@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Domain
 date: 2020-10-25
 conf: 'ACM International Conference on Multimedia'
-conf_shortname: ACM MM
+conf_shortname: 'ACM MM'
 year: 2020
 author: <strong>Xixia Xu</strong>, Qi Zou*, Xue Lin.
 paperurl: /publications/papers/Domain.pdf
