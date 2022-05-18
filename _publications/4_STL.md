@@ -6,9 +6,9 @@ conf: 'IEEE Transactions on Multimedia'
 conf_shortname: 'TMM'
 year: '2022'
 author: <strong>Xixia Xu</strong>, Xue Lin, Qi Zou*,
-paperurl: /publications/papers/STL.pdf
+# paperurl: /publications/papers/STL.pdf
 additional: true
-#highlight: 'Key component for the 1st place method in COCO Detection Challenge 2019.'
+# highlight: 'Key component for the 1st place method in COCO Detection Challenge 2019.'
 
 # venue: 'Journal 1'
 # paperurl: 'https://dl.acm.org/citation.cfm?id=3240553'
