@@ -1,13 +1,13 @@
 ---
-title: "StripNet: Towards Topology Consistent Strip Structure Segmentation"
+title: "Alleviating Human-level Shift: A Robust Domain Adaptation Method for Multi-person Pose Estimation"
 collection: publications
-permalink: /publication/StripNet
-date: 2018-10-26
+permalink: /publication/Domain
+date: 2020-10-25
 conf: 'ACM International Conference on Multimedia'
 conf_shortname: ACM MM
-year: 2018
-author: Guoxiang Qu*, <strong>Wenwei Zhang</strong>*, Zhe Wang, Xing Dai, Jianping Shi, Junjun He, Fei Li, Xiulan Zhang, Yu Qiao.
-paperurl: /publications/papers/StripNet.pdf
+year: 2020
+author: <strong>Xixia Xu</strong>, Qi Zou*, Xue Lin.
+paperurl: /publications/papers/Domain.pdf
 additional: true
 
 # venue: 'Journal 1'
