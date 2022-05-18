@@ -10,7 +10,7 @@ redirect_from:
 
 Xixia Xu is a third year Ph.D. student at the [School of Computer and Information Technology](http://scit.bjtu.edu.cn/), Beijing Jiaotong University, Beijing. She is supervised by Professor [Qi Zou](http://faculty.bjtu.edu.cn/7922). The research field mainly focus on human pose estimation and human-centric understanding tasks.
 Before that, she received her bachelor degree at the School of Electronic and Information Engineering, Lanzhou Jiaotong University.
-# You can find her CV [here](/files/cv_resume.pdf).
+<!--You can find her CV [here](/files/cv_resume.pdf).-->
 
 Recent News
 ------------------------
