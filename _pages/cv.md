@@ -4,14 +4,14 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv_resume
 ---
 
 {% include base_path %}
 
 Education
 ----------------
-* B.S. in Wuhan, China, Wuhan University, 2019(expected).
+* B.S. in Lanzhou, China, Lanzhou Jiaotong University, 2018.
 
 Work experience
 ----------------
@@ -25,9 +25,8 @@ Work experience
   
 Skills
 ----------------
-* Program Language: Python, lua, matlab, C++, Java.
-* Deep Learning Framework: Pytorch, Torch, Caffe.
-* English Skills: IELTS 6.5, TOEFL 91, GRE 321+3.
+* Program Language: Python, matlab, C++, Java.
+* Deep Learning Framework: Pytorch, Tensorflow.
 
 Publications
 ---------------
